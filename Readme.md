@@ -1,2 +1,2 @@
 # Wire Mock server
-mvnw spring-boot:run
+mvn clean test
